@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+Basically im a junior pentester which is aimed develop himself at binary exploitation/memory corruption besides of general skills
