@@ -1,5 +1,5 @@
 ---
-title:Bir kaç güne başlayacak blog:)
+title: Bir kaç güne başlayacak blog:)
 published: true
 ---
 
