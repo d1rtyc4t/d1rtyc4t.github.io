@@ -26,6 +26,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+markdown: kramdown
+highlighter: rouge
+input: GFM
 
 # Custom variables
 owner : "d1rtyc4t"
